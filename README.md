@@ -1,2 +1,2 @@
-# ds202-soren-wagstrom
-repository?
+# ode to an academic advisor
+repository
